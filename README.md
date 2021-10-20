@@ -1,3 +1,3 @@
 # HelpDeskBot
-Basic Help Desk Bot using Basic Python
+Rock Paper Scissors game using Python
 
