@@ -1,2 +1,3 @@
 # HelpDeskBot
-Basic Help Desk Bot using Basic Java
+Basic Help Desk Bot using Basic Python
+
